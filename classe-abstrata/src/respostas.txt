@@ -1,0 +1,12 @@
+Pergunta 01:
+[A melhor maneira de implementarmos o método getValorBonus() seria através de uma A interface,
+pois garante que Professor e Coordenador implementem o método em questão,
+deixando tudo mais flexível impor herança obrigatória.]
+
+Pergunta 02:
+[Apenas uma List é suficiente na classe ControleBonus.
+Ela pode armazenar objetos de Professor e Coordenador, desde que as classes implementem uma
+interface ou herdem de uma classe comum que tenha o método getValorBonus().]
+
+Pergunta 03:
+[Sim o polimorfismo está presente nesse sistema pois temos as sobreescrita  de alguns métodos das classes em questão.]
